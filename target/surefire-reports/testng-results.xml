@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9688" started-at="2020-07-13T07:53:17Z" finished-at="2020-07-13T07:53:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9688" started-at="2020-07-13T07:53:17Z" finished-at="2020-07-13T07:53:26Z">
+      <class name="Jenkings.Testing.Tables">
+        <test-method status="PASS" signature="Table()[pri:0, instance:Jenkings.Testing.Tables@5a61f5df]" name="Table" duration-ms="9659" started-at="2020-07-13T07:53:17Z" finished-at="2020-07-13T07:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Table -->
+      </class> <!-- Jenkings.Testing.Tables -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
